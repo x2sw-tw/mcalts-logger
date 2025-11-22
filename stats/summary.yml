@@ -1,8 +1,8 @@
 channels:
   '1441609159136116788':
-    banned: 218
-    total: 275
-    unbanned: 53
+    banned: 241
+    total: 309
+    unbanned: 64
     unknown: 4
   summary:
     most_active: '1441609159136116788'
@@ -11,24 +11,24 @@ file_stats:
   session_files:
   - date: '2025-11-22'
     filename: 2025-11-22.txt
-    session_count: 275
-    size_bytes: 9888
+    session_count: 309
+    size_bytes: 11096
   uuid_file:
-    count: 273
+    count: 307
     exists: true
     path: data/uuid.txt
-    size: 10101
+    size: 11359
 hypixel_status:
-  banned: 218
-  unbanned: 53
+  banned: 241
+  unbanned: 64
   unknown: 4
 recent_activity:
   active_channels: 1
   last_100: 100
-  today: 275
+  today: 309
 summary:
-  last_sync: '2025-11-22 12:18:56'
-  last_updated: '2025-11-22T12:18:56.124728'
-  total_records: 275
-  unique_accounts: 273
-  unique_sessions: 275
+  last_sync: '2025-11-22 12:19:03'
+  last_updated: '2025-11-22T12:19:03.924872'
+  total_records: 309
+  unique_accounts: 307
+  unique_sessions: 309
