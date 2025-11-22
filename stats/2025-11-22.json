@@ -1,17 +1,17 @@
 {
   "date": "2025-11-22",
-  "total_logs": 394,
+  "total_logs": 396,
   "channels": {
     "1441609159136116788": {
-      "count": 394,
-      "banned": 282,
-      "unbanned": 108,
+      "count": 396,
+      "banned": 283,
+      "unbanned": 109,
       "unknown": 4
     }
   },
   "hypixel_status": {
-    "banned": 282,
-    "unbanned": 108,
+    "banned": 283,
+    "unbanned": 109,
     "unknown": 4
   },
   "unique_players": [
@@ -97,6 +97,7 @@
     "fca2d921-184e-429b-8312-6ed9fc36637f",
     "e7511423-fad5-4037-aac1-568085e4c32c",
     "52eb5c30-cb79-44dd-b736-fa79682d4345",
+    "6f0ee63c-8217-4d64-ac02-c031fb16de35",
     "fe06b0e2-8a48-49df-a838-19a02a166412",
     "76645ff7-5a6a-4d75-99bd-933fa4164126",
     "3ff670d8-d3d8-4918-9f7d-41a1e9ea81ba",
@@ -136,6 +137,7 @@
     "467e3b7b-52d4-4716-b77a-89a6d742d904",
     "8ba6f061-d6bf-43d1-b064-bc63c76fe28f",
     "bf39d7d8-6294-404d-bdc2-55551b5734c8",
+    "e1610553-e419-4fcd-a5ca-ca2ced2eaff3",
     "9ed8c3a4-2a5c-4b17-8e78-b7d885941526",
     "73576e9e-6a59-4ed4-b4be-007708737a6b",
     "9bd52083-4499-49ba-bb04-c2bc7aa34aff",
@@ -2770,6 +2772,18 @@
     {
       "name": "Gravitz99frigid0",
       "uuid": "8358a49f-6d09-4b16-a6ce-85c4fc4d6d7d",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-22:07"
+    },
+    {
+      "name": "Thuman_apt842",
+      "uuid": "e1610553-e419-4fcd-a5ca-ca2ced2eaff3",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-22:07"
+    },
+    {
+      "name": "rnetiauxbright81",
+      "uuid": "6f0ee63c-8217-4d64-ac02-c031fb16de35",
       "hypixel": "banned",
       "log_time": "2025/11/22-22:07"
     }
