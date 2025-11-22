@@ -1,0 +1,20 @@
+channels:
+  '1441609139250921553':
+    banned: 20
+    total: 24
+    unbanned: 4
+  '1441609159136116788':
+    banned: 78
+    total: 100
+    unbanned: 22
+hypixel_status:
+  banned: 98
+  unbanned: 26
+  unknown: 0
+recent_activity:
+  last_100: 100
+  today: 124
+summary:
+  last_updated: '2025-11-22T12:07:26.013362'
+  total_records: 124
+  unique_accounts: 124
