@@ -1,17 +1,17 @@
 {
   "date": "2025-11-22",
-  "total_logs": 397,
+  "total_logs": 401,
   "channels": {
     "1441609159136116788": {
-      "count": 397,
-      "banned": 283,
-      "unbanned": 110,
+      "count": 401,
+      "banned": 286,
+      "unbanned": 111,
       "unknown": 4
     }
   },
   "hypixel_status": {
-    "banned": 283,
-    "unbanned": 110,
+    "banned": 286,
+    "unbanned": 111,
     "unknown": 4
   },
   "unique_players": [
@@ -55,10 +55,12 @@
     "a7853ea7-e6d9-452f-88cd-b27518efd0e2",
     "8d7650dc-8660-4606-b64a-eb73b96dd917",
     "ef8ef81f-97f6-40c7-9ab1-7a807dbce618",
+    "c1528a46-8c3c-4969-b3a9-e3cf251de47a",
     "87d2ac42-e582-4321-95c5-e93705c4960c",
     "8800b789-86bf-4233-9325-6d6f0a60368e",
     "c16eb309-db2b-4d74-ba50-ab26e6ce1759",
     "9ce1a92f-185e-4bca-8bf8-de4e4fea7e28",
+    "0824cac7-6811-4ead-a2b3-e2300cdde4a7",
     "370c4cf2-22fb-491e-86b1-0d9c4e790886",
     "ac610038-246e-4a9b-861d-d023cd314ed7",
     "5448e7e9-7e19-4951-9e95-7879ee4ead15",
@@ -189,6 +191,7 @@
     "60e857bc-f130-4d3d-9338-d1c032ec7b73",
     "e4adbbd4-802c-4b0e-b33f-6d94da57f7a0",
     "d24cb45a-b567-412a-bf9f-c1cce1acf941",
+    "48870bb3-65a7-4563-a01a-b1b46b6c33c8",
     "2d777b1b-f9ed-4b37-990d-27906d6b3f71",
     "bb09a360-c2e4-42b4-b7a0-4f5cbbc77d35",
     "ef0fbef5-4d49-4402-b50c-e9f828aa0f80",
@@ -254,6 +257,7 @@
     "16dbb0e5-12fb-44f7-be82-915720b62e34",
     "6b92de5b-a79a-47fe-b2d7-8668d4e2e93c",
     "753d0fbe-a2c6-48e0-8871-747b7fbf825d",
+    "e1a85cac-8522-41fc-9962-2efec2f7ec47",
     "2d629453-9a00-4d97-9b26-439cacc4392d",
     "c36c6d57-7573-437d-83a0-59147704c507",
     "75076089-a1e2-4eb5-9f54-b3622e585f9e",
@@ -2792,6 +2796,30 @@
       "name": "Fugate_darling5",
       "uuid": "26723996-458d-40a4-bb2c-e6ad02e1c948",
       "hypixel": "unbanned",
+      "log_time": "2025/11/22-22:08"
+    },
+    {
+      "name": "gill_distorted37",
+      "uuid": "48870bb3-65a7-4563-a01a-b1b46b6c33c8",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-22:08"
+    },
+    {
+      "name": "Serman_present1",
+      "uuid": "c1528a46-8c3c-4969-b3a9-e3cf251de47a",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/22-22:08"
+    },
+    {
+      "name": "Griess_snoopy227",
+      "uuid": "0824cac7-6811-4ead-a2b3-e2300cdde4a7",
+      "hypixel": "banned",
+      "log_time": "2025/11/22-22:08"
+    },
+    {
+      "name": "mi7_msmc_ihp",
+      "uuid": "e1a85cac-8522-41fc-9962-2efec2f7ec47",
+      "hypixel": "banned",
       "log_time": "2025/11/22-22:08"
     }
   ]
