@@ -1,16 +1,16 @@
 {
   "date": "2025-11-23",
-  "total_logs": 99,
+  "total_logs": 100,
   "channels": {
     "1441609159136116788": {
-      "count": 99,
-      "banned": 39,
+      "count": 100,
+      "banned": 40,
       "unbanned": 59,
       "unknown": 1
     }
   },
   "hypixel_status": {
-    "banned": 39,
+    "banned": 40,
     "unbanned": 59,
     "unknown": 1
   },
@@ -34,6 +34,7 @@
     "2c259793-f4c3-432b-944e-e3a32cdade53",
     "2cc50800-13ed-47b3-a73d-9dbe69e35c13",
     "8a4e1650-53f9-473b-b5a7-4684dcec6923",
+    "9c154f8c-9137-4f36-855a-c6bc144e00c7",
     "48323e93-e221-41e2-ad7f-5410e6843f1f",
     "c23025d4-92e4-429b-98c7-533119b7eba6",
     "584a71b0-6e4c-4927-963f-3ab1b66848f1",
@@ -708,6 +709,12 @@
       "name": "Byill",
       "uuid": "2f55f608-15fd-4308-9bec-939878b38f88",
       "hypixel": "unbanned",
+      "log_time": "2025/11/23-07:06"
+    },
+    {
+      "name": "molesta_jogos",
+      "uuid": "9c154f8c-9137-4f36-855a-c6bc144e00c7",
+      "hypixel": "banned",
       "log_time": "2025/11/23-07:06"
     }
   ]
