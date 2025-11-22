@@ -1,20 +1,21 @@
 {
   "date": "2025-11-23",
-  "total_logs": 58,
+  "total_logs": 62,
   "channels": {
     "1441609159136116788": {
-      "count": 58,
-      "banned": 20,
+      "count": 62,
+      "banned": 24,
       "unbanned": 37,
       "unknown": 1
     }
   },
   "hypixel_status": {
-    "banned": 20,
+    "banned": 24,
     "unbanned": 37,
     "unknown": 1
   },
   "unique_players": [
+    "c00d5dc0-efdb-4bd3-9756-39867626df6f",
     "805297dd-8948-4186-9e02-f06d9f999217",
     "7839ea7c-ace8-4f0e-b0ce-7e5d88a7a5eb",
     "a7fe08f2-0f1d-486f-a891-e7be59463920",
@@ -24,12 +25,14 @@
     "cd652cc8-a611-4866-8baa-5ab392b0f35c",
     "fcc2f94a-6543-4f66-b799-61c92d3265e7",
     "f59fc5be-8076-425f-ac6c-60203ab47aec",
+    "6d6e25d9-02d3-4918-affb-3021e3942bcf",
     "0044a001-dacd-4255-bf0d-8394da86890c",
     "66153502-903f-49b2-8621-d3198ac9b755",
     "6f6bccc0-c0e1-4178-84ac-7d12eee54e10",
     "a93fa510-9105-4a5a-8508-bc305ace50f0",
     "e28f75ac-5f95-4585-bc44-703d2d1bc5ce",
     "539990bd-5c22-4ec9-9633-fcc5d369b607",
+    "08799fee-9bbb-4ae1-b0bf-2e2046dbc54d",
     "8c0cc3a3-a888-400e-ba66-34cba98d625f",
     "82cc5ed8-6eae-4e5d-93b2-af854f9f2ac7",
     "91adfa1c-e4be-48d0-af3a-3b08eb28aa35",
@@ -50,6 +53,7 @@
     "4f8cd52e-a6c0-4bdb-aec5-513edd4f13a6",
     "a5b520f6-2088-4e85-a55e-86a93a6214b5",
     "14ade7b3-b09d-41da-b93a-0350ac7b27c3",
+    "180ede64-7787-4720-a5e9-d2194a7a4959",
     "af084b0d-ec7a-44da-a11e-d7de6cb4c5dc",
     "8f486ca3-7858-4fe8-a7e9-d2ef4ee97a2e",
     "a3c2642b-343c-467b-816a-9246b7bfecf2",
@@ -422,6 +426,30 @@
       "uuid": "67ea4f71-7dc0-4528-b838-54e3dba13541",
       "hypixel": "banned",
       "log_time": "2025/11/23-02:13"
+    },
+    {
+      "name": "b_j97jZ_11_14",
+      "uuid": "08799fee-9bbb-4ae1-b0bf-2e2046dbc54d",
+      "hypixel": "banned",
+      "log_time": "2025/11/23-02:14"
+    },
+    {
+      "name": "b_Mj5Aj_11_16",
+      "uuid": "c00d5dc0-efdb-4bd3-9756-39867626df6f",
+      "hypixel": "banned",
+      "log_time": "2025/11/23-02:14"
+    },
+    {
+      "name": "jrh_L1ra_phq",
+      "uuid": "180ede64-7787-4720-a5e9-d2194a7a4959",
+      "hypixel": "banned",
+      "log_time": "2025/11/23-02:14"
+    },
+    {
+      "name": "mj2_msmc_b6y",
+      "uuid": "6d6e25d9-02d3-4918-affb-3021e3942bcf",
+      "hypixel": "banned",
+      "log_time": "2025/11/23-02:16"
     }
   ]
 }
