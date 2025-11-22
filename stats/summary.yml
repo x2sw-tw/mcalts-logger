@@ -3,18 +3,25 @@ channels:
     banned: 20
     total: 24
     unbanned: 4
+    unknown: 0
   '1441609159136116788':
-    banned: 78
-    total: 100
-    unbanned: 22
+    banned: 215
+    total: 269
+    unbanned: 53
+    unknown: 1
+  summary:
+    most_active: '1441609159136116788'
+    total_channels: 2
 hypixel_status:
-  banned: 98
-  unbanned: 26
-  unknown: 0
+  banned: 235
+  unbanned: 57
+  unknown: 1
 recent_activity:
+  active_channels: 2
   last_100: 100
-  today: 124
+  today: 293
 summary:
-  last_updated: '2025-11-22T12:07:26.013362'
-  total_records: 124
-  unique_accounts: 124
+  last_sync: '2025-11-22 12:12:04'
+  last_updated: '2025-11-22T12:12:04.514767'
+  total_records: 293
+  unique_accounts: 291
