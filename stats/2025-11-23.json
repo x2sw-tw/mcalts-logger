@@ -1,16 +1,16 @@
 {
   "date": "2025-11-23",
-  "total_logs": 20,
+  "total_logs": 21,
   "channels": {
     "1441609159136116788": {
-      "count": 20,
-      "banned": 5,
+      "count": 21,
+      "banned": 6,
       "unbanned": 14,
       "unknown": 1
     }
   },
   "hypixel_status": {
-    "banned": 5,
+    "banned": 6,
     "unbanned": 14,
     "unknown": 1
   },
@@ -31,6 +31,7 @@
     "d44b8921-973d-460c-a5c6-35053056f493",
     "8b30ddea-5abe-4e08-bb3a-41f6bbbac263",
     "2cc50800-13ed-47b3-a73d-9dbe69e35c13",
+    "a5136455-779d-4d27-beff-3b71e5cf956d",
     "ec80ca06-add6-4f73-955d-7cf0b22088bc",
     "48323e93-e221-41e2-ad7f-5410e6843f1f",
     "2d006a08-49b6-488b-9131-5e791f40424d",
@@ -156,6 +157,12 @@
       "uuid": "8c0cc3a3-a888-400e-ba66-34cba98d625f",
       "hypixel": "unbanned",
       "log_time": "2025/11/23-00:20"
+    },
+    {
+      "name": "LinhUXtsD1122",
+      "uuid": "a5136455-779d-4d27-beff-3b71e5cf956d",
+      "hypixel": "banned",
+      "log_time": "2025/11/23-00:21"
     }
   ]
 }
