@@ -1,26 +1,35 @@
 {
   "date": "2025-11-23",
-  "total_logs": 6,
+  "total_logs": 15,
   "channels": {
     "1441609159136116788": {
-      "count": 6,
-      "banned": 1,
-      "unbanned": 4,
+      "count": 15,
+      "banned": 3,
+      "unbanned": 11,
       "unknown": 1
     }
   },
   "hypixel_status": {
-    "banned": 1,
-    "unbanned": 4,
+    "banned": 3,
+    "unbanned": 11,
     "unknown": 1
   },
   "unique_players": [
+    "5167d6aa-f07d-407b-af5b-06dd207598ce",
     "ead244f2-c2bd-48c1-a635-c3fb4cd9f6cd",
+    "a5b520f6-2088-4e85-a55e-86a93a6214b5",
     "af084b0d-ec7a-44da-a11e-d7de6cb4c5dc",
+    "8f486ca3-7858-4fe8-a7e9-d2ef4ee97a2e",
+    "37424944-8170-47fe-af0c-d1fdd402515a",
     "ba16122e-d187-4dba-b475-f0d4cffa2c3f",
     "0044a001-dacd-4255-bf0d-8394da86890c",
+    "8b30ddea-5abe-4e08-bb3a-41f6bbbac263",
     "6f6bccc0-c0e1-4178-84ac-7d12eee54e10",
-    "b5049e64-f4e2-4771-8981-f96ec6a17be1"
+    "48323e93-e221-41e2-ad7f-5410e6843f1f",
+    "2d006a08-49b6-488b-9131-5e791f40424d",
+    "b5049e64-f4e2-4771-8981-f96ec6a17be1",
+    "2cc50800-13ed-47b3-a73d-9dbe69e35c13",
+    "68259307-9d41-4386-af00-73494e10d5f5"
   ],
   "logs": [
     {
@@ -58,6 +67,60 @@
       "uuid": "b5049e64-f4e2-4771-8981-f96ec6a17be1",
       "hypixel": "unbanned",
       "log_time": "2025/11/23-00:08"
+    },
+    {
+      "name": "richer_closed532",
+      "uuid": "a5b520f6-2088-4e85-a55e-86a93a6214b5",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/23-00:11"
+    },
+    {
+      "name": "ix_spectacular56",
+      "uuid": "2cc50800-13ed-47b3-a73d-9dbe69e35c13",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/23-00:12"
+    },
+    {
+      "name": "LinhuZuUA1122",
+      "uuid": "8b30ddea-5abe-4e08-bb3a-41f6bbbac263",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/23-00:12"
+    },
+    {
+      "name": "exe2k2k",
+      "uuid": "48323e93-e221-41e2-ad7f-5410e6843f1f",
+      "hypixel": "banned",
+      "log_time": "2025/11/23-00:14"
+    },
+    {
+      "name": "Salzanomilky1",
+      "uuid": "37424944-8170-47fe-af0c-d1fdd402515a",
+      "hypixel": "banned",
+      "log_time": "2025/11/23-00:15"
+    },
+    {
+      "name": "LinhfvCeH1122",
+      "uuid": "8f486ca3-7858-4fe8-a7e9-d2ef4ee97a2e",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/23-00:15"
+    },
+    {
+      "name": "ay12concerned661",
+      "uuid": "2d006a08-49b6-488b-9131-5e791f40424d",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/23-00:15"
+    },
+    {
+      "name": "iuscomplicated92",
+      "uuid": "68259307-9d41-4386-af00-73494e10d5f5",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/23-00:15"
+    },
+    {
+      "name": "LinhmnVsl1122",
+      "uuid": "5167d6aa-f07d-407b-af5b-06dd207598ce",
+      "hypixel": "unbanned",
+      "log_time": "2025/11/23-00:15"
     }
   ]
 }
