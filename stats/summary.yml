@@ -12,6 +12,12 @@ channels:
   summary:
     most_active: '1441609159136116788'
     total_channels: 2
+file_stats:
+  session_files: []
+  uuid_file:
+    exists: false
+    path: data/uuid.txt
+    size: 0
 hypixel_status:
   banned: 238
   unbanned: 57
@@ -21,7 +27,8 @@ recent_activity:
   last_100: 100
   today: 299
 summary:
-  last_sync: '2025-11-22 05:38:56'
-  last_updated: '2025-11-22T05:38:56.667193'
+  last_sync: '2025-11-22 05:41:54'
+  last_updated: '2025-11-22T05:41:54.687111'
   total_records: 299
   unique_accounts: 297
+  unique_sessions: 299
