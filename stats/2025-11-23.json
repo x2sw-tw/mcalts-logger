@@ -1,16 +1,16 @@
 {
   "date": "2025-11-23",
-  "total_logs": 129,
+  "total_logs": 131,
   "channels": {
     "1441609159136116788": {
-      "count": 129,
-      "banned": 67,
+      "count": 131,
+      "banned": 69,
       "unbanned": 61,
       "unknown": 1
     }
   },
   "hypixel_status": {
-    "banned": 67,
+    "banned": 69,
     "unbanned": 61,
     "unknown": 1
   },
@@ -54,6 +54,7 @@
     "4236e5de-1c6a-4c31-9c5e-7698e55da452",
     "fcc2f94a-6543-4f66-b799-61c92d3265e7",
     "f59fc5be-8076-425f-ac6c-60203ab47aec",
+    "4f0798de-6c1c-4242-bb6d-8c6dc1b0e506",
     "b86153fd-0b22-43a0-a613-9534c5ac609a",
     "66153502-903f-49b2-8621-d3198ac9b755",
     "071c52b0-eab5-45e3-b8d6-8ccacd45ff0f",
@@ -141,6 +142,7 @@
     "920f6d7f-faf1-4024-be91-7eea3852bbbc",
     "7ebd8f82-1667-4adc-a8f3-039c103e922a",
     "b73754bb-84ea-4e03-8f98-830323a18a2b",
+    "8d8be77a-25f6-4d62-a4ae-baf8d3214b5a",
     "3da4d01b-be60-4139-8049-cb663344c48f",
     "a31a4a3c-22f6-4aeb-b698-e35b77ca1776",
     "68259307-9d41-4386-af00-73494e10d5f5"
@@ -919,6 +921,18 @@
       "uuid": "38e6c7ba-0375-4cf8-8c81-d1b2555d4468",
       "hypixel": "banned",
       "log_time": "2025/11/23-08:06"
+    },
+    {
+      "name": "MenManMen",
+      "uuid": "4f0798de-6c1c-4242-bb6d-8c6dc1b0e506",
+      "hypixel": "banned",
+      "log_time": "2025/11/23-09:04"
+    },
+    {
+      "name": "3ir_msmc_9qp",
+      "uuid": "8d8be77a-25f6-4d62-a4ae-baf8d3214b5a",
+      "hypixel": "banned",
+      "log_time": "2025/11/23-09:04"
     }
   ]
 }
