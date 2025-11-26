@@ -1,25 +1,25 @@
 {
   "date": "2025-11-27",
-  "total_logs": 72,
+  "total_logs": 73,
   "channels": {
     "1443058715019186328": {
-      "count": 72,
+      "count": 73,
       "banned": 48,
-      "unbanned": 24,
+      "unbanned": 25,
       "unknown": 0
     }
   },
   "hypixel_status": {
     "banned": 48,
-    "unbanned": 24,
+    "unbanned": 25,
     "unknown": 0
   },
   "unique_players": [
     "2c2b2091-562f-4e87-a962-d72a7f37e977",
     "5e22c3ae-2c4f-4d0e-814c-59c715520757",
     "02e59356-35e9-42fb-9415-e3b16298bd66",
-    "41c12028-0bb4-420c-bb4e-2f680dd2f0b5",
     "9b02ddd5-5872-4315-93a2-6e0ab19e206f",
+    "41c12028-0bb4-420c-bb4e-2f680dd2f0b5",
     "0997d929-0545-4b69-9e7d-47b08c417733",
     "74feb75b-f357-403b-8c50-0fe36ed51dd2",
     "a1bfb551-7583-427c-aef9-7140e7529228",
@@ -28,6 +28,7 @@
     "5913e060-678d-41c8-9fc6-9536f751276c",
     "a12ca32e-b7c4-4774-b3d4-33731775b6ea",
     "25a5b23b-6de0-42c5-bc86-0a867539d6ed",
+    "99511773-ec29-4850-82fe-ec6cf70e421a",
     "637bdcde-6660-47cb-b4d5-2701bcdf43f5",
     "aaa443a2-5bcf-41e6-a520-3156f1117c41",
     "ffce9aa0-ed52-4d7c-ae57-d52c4ec61472",
@@ -51,13 +52,13 @@
     "de738620-53fe-4d1a-a182-3fccd0dbd4b7",
     "91dca0c3-bceb-4470-ad7c-f3ec62bd853c",
     "ae1d6639-2301-450d-a4b7-670dedeb7dc2",
-    "b1abf6cc-c2d0-4efc-b463-6ab1a52e4356",
     "110686d5-ec3a-4cad-9a57-1a5598b44459",
     "85133825-8a27-47a7-a819-7b880fe6bf3f",
     "43301e1b-af22-4adb-9f56-74e1d2086726",
     "2bd648aa-1c1f-40de-93ca-ff4fe5e6aa8b",
     "7c3619f7-24b5-441d-8de5-056a057a8ce8",
     "3826044e-6219-4ccd-8790-1d2752102f8f",
+    "c29f212a-6531-4da5-89ef-dcd5666511cb",
     "cff5e7c4-66d4-45bd-b7ae-53e491241654",
     "a918c65e-9ad1-4813-8bb6-d3ae06a743fb",
     "ad2d719a-1925-4e29-852f-b3c42ec15296",
@@ -85,7 +86,7 @@
     "ca84fb29-edf3-4399-8280-db1707a3fc30",
     "ab28d9de-35f3-4893-a90b-43cbab38c4dd",
     "527fcb5a-e7f5-4a83-b696-46a14617e775",
-    "99511773-ec29-4850-82fe-ec6cf70e421a",
+    "b1abf6cc-c2d0-4efc-b463-6ab1a52e4356",
     "7ebd8f82-1667-4adc-a8f3-039c103e922a"
   ]
 }
