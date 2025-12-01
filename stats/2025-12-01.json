@@ -1,6 +1,6 @@
 {
   "date": "2025-12-01",
-  "total_logs": 390,
+  "total_logs": 393,
   "channels": {
     "1444508257233403925": {
       "count": 92,
@@ -9,16 +9,16 @@
       "unknown": 10
     },
     "1444870648844386396": {
-      "count": 298,
-      "banned": 241,
-      "unbanned": 35,
-      "unknown": 22
+      "count": 301,
+      "banned": 242,
+      "unbanned": 36,
+      "unknown": 23
     }
   },
   "hypixel_status": {
-    "banned": 276,
-    "unbanned": 82,
-    "unknown": 32
+    "banned": 277,
+    "unbanned": 83,
+    "unknown": 33
   },
   "unique_players": [
     "ee464ee0-babd-4183-a29d-bdbe67f680ae",
@@ -32,8 +32,8 @@
     "33712cb4-79ff-4ce8-a2f1-dd1c87958c70",
     "02025a63-11f3-459f-9e91-76987c93bdf7",
     "1a5cad19-b4be-4574-97d1-4a94b30dac1b",
-    "fd824c35-74d1-4af1-96ab-54028abc9fd6",
     "aea825c5-11bb-4da4-adb7-4a96db878918",
+    "fd824c35-74d1-4af1-96ab-54028abc9fd6",
     "cbdc31e3-3386-46dd-87b2-ca79224de9e0",
     "7fe623c6-5321-481e-b3e9-52fa1c59f5ce",
     "42271c95-7191-419d-ad6e-e9af9a34b026",
@@ -103,6 +103,7 @@
     "d8c0a903-521c-4049-a25a-97c50c226afd",
     "d25b600d-6dce-404f-868b-c98d1e23bb8a",
     "01d6f930-01a5-4b6e-a41d-1325cbf9cc1e",
+    "4baa55e2-79c2-4bcd-8144-66aa260065f4",
     "e5f5e236-e527-4c71-89c8-e6d452a123c1",
     "1a36d7bd-cab2-4fe4-87c7-903bbf6a7581",
     "86985aa9-02d5-4a83-b3c4-c25bed618a6a",
@@ -214,6 +215,7 @@
     "eac8c64c-8f8e-4741-894e-58a0dc3207ae",
     "0a0ee8bc-7451-4f53-8057-e752224a6f57",
     "55949459-7fff-480a-92aa-0be6ced44475",
+    "2cce9842-df18-4ac9-af21-f688ea8aa9bc",
     "ea06fe0d-e300-49af-8529-e41ffcf6a638",
     "b3fbd980-7c06-4a3f-8e3d-1b543a13d989",
     "d2c282af-8228-4e37-9a46-d90ff06e5a38",
@@ -238,6 +240,7 @@
     "a6bbad02-3d2d-4dc2-9df6-a3f7ab2f70c7",
     "11760c41-5df7-4153-b1a2-a51ae59ab1a6",
     "dcfe383b-a4bf-4742-868e-367effae80a3",
+    "4a5c78cc-0c98-4ef2-a794-31a424206a07",
     "142345f1-2443-451c-8e5a-3a9b582d5a2e",
     "bb1d5bf7-7481-4ef9-b2a6-db15a18ce03d",
     "d4866df9-d6cc-4796-95d7-f08f5d35d4ee",
