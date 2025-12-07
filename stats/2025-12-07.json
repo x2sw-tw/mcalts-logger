@@ -1,6 +1,6 @@
 {
   "date": "2025-12-07",
-  "total_logs": 236,
+  "total_logs": 240,
   "channels": {
     "1446682580459192425": {
       "count": 143,
@@ -9,15 +9,15 @@
       "unknown": 0
     },
     "1447044968807141569": {
-      "count": 93,
-      "banned": 87,
-      "unbanned": 4,
+      "count": 97,
+      "banned": 90,
+      "unbanned": 5,
       "unknown": 2
     }
   },
   "hypixel_status": {
-    "banned": 185,
-    "unbanned": 49,
+    "banned": 188,
+    "unbanned": 50,
     "unknown": 2
   },
   "unique_players": [
@@ -48,6 +48,7 @@
     "310c01ba-cb8d-4592-a919-fc1e24dc4a56",
     "c1cc6ec6-9b6a-42f9-a9c2-39f1996800c4",
     "25e78098-e5fb-4feb-a735-a7a33bc55c48",
+    "81b46eca-0e1c-4c46-89fe-a670d480eeb9",
     "6309f1e7-52d2-4c1c-b5ac-dafe927dc56d",
     "c0a7b5fa-d0e1-46ed-9a5c-c742218fd5db",
     "3c4fdee2-d9cd-4a25-be87-dbe4ab5db837",
@@ -120,9 +121,11 @@
     "8458e1c0-2b29-4fdc-9673-1ba26e8d19c7",
     "54d21271-1e53-4f3c-889f-b14bf3060371",
     "b7bb5fdb-7c90-4e06-af86-da718ee06808",
+    "ed5f04f0-c0d4-4369-bfd9-48787dc96058",
     "59530cbc-99e9-4e46-b05e-82e98e3f79a1",
     "45fb80de-d278-4ee8-8a93-b87c37406beb",
     "e7478b5c-d9fe-44d5-8b80-0c6c1193fa62",
+    "93633cb9-418e-4361-9013-57cdbf1a3e4f",
     "315756dd-d46e-4735-95bd-fd5a8d453a93",
     "528a34e6-39d5-4887-838b-23fd24c499b5",
     "97ea5b54-be1a-45b7-90f1-c00682001730",
@@ -131,6 +134,7 @@
     "c2af58cb-4878-4d1c-8b89-dde3a8ee4640",
     "2906722d-60f4-4cbe-9ac8-2da6be15eeef",
     "d75f11b6-a0e9-4384-ac28-f54cfc462a63",
+    "e8a097d9-1fbf-4635-92a1-97fc2abef231",
     "0fad2480-0db3-40f4-b8cd-deba560d4e43",
     "73bd7f23-d18a-41ce-9e50-58feb56353ac",
     "7236a057-6273-42db-a514-1bbe4a75c5a8",
@@ -199,7 +203,7 @@
     "e3d9578c-956c-4b4b-83f2-a6d48bdf250e",
     "321b913d-6818-4e2d-8547-270b6bc703e2",
     "c20daff6-b14d-43d3-badd-5a0e291eae28",
-    "ed5f04f0-c0d4-4369-bfd9-48787dc96058",
+    "6987fd38-d575-426f-87d6-460ce83dcc29",
     "97eae6ef-cda4-4c22-82fd-6951cd10f0c8",
     "0d7ebc1d-c686-46e9-8731-7443fdcd8345",
     "b5b513e0-212b-4fd6-96b5-869c71948e19"
