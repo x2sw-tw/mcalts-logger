@@ -1,9 +1,9 @@
 {
   "date": "2025-12-24",
-  "total_logs": 108,
+  "total_logs": 109,
   "hypixel_status": {
     "banned": 78,
-    "unbanned": 28,
+    "unbanned": 29,
     "unknown": 2
   },
   "unique_players": [
@@ -81,6 +81,7 @@
     "aef8bd27-8a57-427c-a2f6-1f7b37da9b25",
     "db5e239e-bbe1-4247-9a7c-b4bc396c8ef1",
     "14fe5b98-0feb-48c9-8699-278f98dd9b87",
+    "90e52beb-103b-4b89-90ab-a75a8b0502e3",
     "4eb65d0e-8492-4f0e-8944-794fc7b2209e",
     "bf390d4c-f1c7-40d4-bd56-fc4f24225c15",
     "69ae8c72-cf24-4982-8ebe-4e8dc02451fc",
